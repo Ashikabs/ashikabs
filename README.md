@@ -1,5 +1,5 @@
 # Hi there, I'm Ashika! 👋🏼  
-<img src="https://i.imgur.com/Ty1XKvu.png" width="100" />
+<img src="https://i.imgur.com/hKWrD7p.png" width="100" />
 🎓 I'm a postgraduate M.C.A. student.  
 💻 Currently studying Master of Computer Applications.  
 🌸 I'm very passionate about building mobile apps.  
