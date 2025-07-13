@@ -1,6 +1,14 @@
 # Hi there, I'm Ashika! 👋🏼  
-<img src="https://user-images.githubusercontent.com/122165014/245285955-6a9adfd8-e635-4398-9399-c5d44a01298f.png
-" width="100" />
+<img src="https://user-images.githubusercontent.com/122165014/245285955-6a9adfd8-e635-4398-9399-c5d44a01298f.png" width="100" />
+
+---
+
+<!-- Cute waving panda saying hii -->
+<img src="https://pngimg.com/uploads/panda/panda_PNG13.png" alt="Cute waving panda" width="150"/>
+
+<p align="center"><b>Hii! 🐼👋</b></p>
+
+---
 
 🎓 I'm a postgraduate M.C.A. student.  
 💻 Currently studying Master of Computer Applications.  
