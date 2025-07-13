@@ -2,7 +2,12 @@
 <!-- Cute waving panda saying hii -->
 <img src="https://pngimg.com/uploads/panda/panda_PNG13.png" alt="Cute waving panda" width="150"/>
 
-<p align="center"><b>🐼👋</b></p>
+<!-- Replace the emoji section with the following -->
+
+**<span style="color:#007396;">Java</span>**
+**<span style="color:#02569B;">Flutter</span>**
+**<span style="color:#00B4AB;">Dart</span>**
+**<span style="color:#E34F26;">App Development</span>**
 
 ---
 
