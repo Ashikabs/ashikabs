@@ -1,5 +1,6 @@
 # Hi there, I'm Ashika! 👋🏼  
-<img src="https://raw.githubusercontent.com/kikidevelopment/chatgpt-assets/main/hi-panda.png" width="100" />
+<img src="https://user-images.githubusercontent.com/122165014/245285955-6a9adfd8-e635-4398-9399-c5d44a01298f.png
+" width="100" />
 
 🎓 I'm a postgraduate M.C.A. student.  
 💻 Currently studying Master of Computer Applications.  
