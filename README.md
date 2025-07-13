@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Ashika! 👋🏼  
+![hi-gif](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
-<!--
-**Ashikabs/ashikabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a postgraduate M.C.A. student.  
+💻 Currently studying Master of Computer Applications.  
+🌸 I'm very passionate about building mobile apps.  
+🧡 I love using Flutter to create simple and beautiful apps.  
+🌱 Still learning, growing, and enjoying the journey.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Reach out to me here:**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashikagowda047@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/ashika-srinivas-60b67a298)
